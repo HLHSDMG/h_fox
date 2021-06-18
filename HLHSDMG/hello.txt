@@ -1,0 +1,7 @@
+hello git
+<<<<<<< HEAD
+=======
+hello git
+hello git111
+23333333
+>>>>>>> mx-fox
